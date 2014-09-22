@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<View id="vwMain">
+			<Label id="label" onClick="nsIndex.getLocation">Get Location</Label>
+		</View>
+	</Window>
+</Alloy>

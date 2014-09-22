@@ -1,0 +1,20 @@
+".container": {
+	backgroundColor:"#FFFFFF"
+},
+
+"#vwMain":{
+	height: Titanium.UI.FILL,
+	width: Titanium.UI.SIZE,
+	backgroundColor: "#FFFFFF"
+},
+
+"#label": {
+	backgroundColor: "#E3E3E3",
+	borderWidth: 1,
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000",
+	font: {
+		fontSize: 20
+	}
+}
